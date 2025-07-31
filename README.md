@@ -42,8 +42,3 @@ This certificate program helped me build a strong foundation in machine learning
 - Pandas  
 - Matplotlib & Seaborn (for data visualization)  
 - Scikit-learn (core machine learning library)  
-
----
-
-## Repository Structure
-
